@@ -1,0 +1,48 @@
+
+    .navbar {
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    .navbar a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+    }
+
+    .navbar a.right {
+        float: right;
+    }
+
+    .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+    body,h1 {font-family: "Raleway", sans-serif}
+    body, html {height: 100%}
+    .bgimg {
+        min-height: 100%;
+        background: url('https://lh3.googleusercontent.com/19Qv7-i9WHMqsRC_9Y-PaZCt4h3YCNJCfOHKu0dUBjCwUCz3w6FBx23C0NqKVwbOd4aFz1zuTGg-wQ37-oc4TXtU5FTOPhSnf--Fo5XMaTgq8Up1afh_2OnuTjpIdtPlSU91g6-YlQ=w2400') center;
+        background-size: cover;
+    }
+    .result{
+        color:#fff;
+        height:20px;
+        width:20px;
+        font-weight:bold;
+        text-align:center;
+        padding:5px;
+    }
+    .scuffed{
+        font-size: 32px;
+        background: -webkit-linear-gradient(49deg, #b1f44e, #db3eb8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        position: absolute;
+        bottom: 13vh;
+        right: 12vw;
+        align-items: flex-start;
+    }
