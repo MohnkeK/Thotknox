@@ -40,7 +40,9 @@
         display: block;
         margin-left:  auto;
         margin-right: auto;
-        width: 200px
+        width: 200px;
+        top: 50%;
+        transform: TranslateY(50%)
         }
     
     .text-middle{
