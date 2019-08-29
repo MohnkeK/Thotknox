@@ -38,14 +38,15 @@
     }
     .logo{
         display: block;
-        position: absolute;
-        top: 3%;
-        left: 50vw
-    }
+        margin-left:  auto;
+        margin-right: auto;
+        width: 200px
+        }
     
     .text-middle{
-        display: block;
         position:absolute;
-        top: 20vw;
+        top:50%;
         left:50%;
+        transform:translate(-50%,-50%);
+        top: 40vh
     }
