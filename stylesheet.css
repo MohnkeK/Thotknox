@@ -32,8 +32,6 @@
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         position: absolute;
-        bottom: 13vh;
-        right: 12vw;
         align-items: flex-start;
     }
     .logo{
